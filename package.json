@@ -1,0 +1,31 @@
+{
+  "name": "give-password-utils",
+  "version": "1.0.0",
+  "description": "A collection of utilities for generating and handling passwords",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "<repository_url>"
+  },
+  "dependencies": {
+	"generate-password": "^1.5.1",
+    "bcrypt": "^5.0.1",
+    "tax-date-time": "1.0.0",
+    "insightful-utils-use": "1.0.0",
+    "cosmic-voyager-fade": "1.0.0",
+    "cook-string-random": "1.0.0",
+    "cosmic-arcana-seal": "1.0.0",
+    "soulful-hope": "1.0.0",
+    "clever-utils-base": "1.0.0",
+    "quantum-harmony-sack": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "<repository_url>/issues"
+  },
+  "homepage": "<repository_url>#readme"
+}
